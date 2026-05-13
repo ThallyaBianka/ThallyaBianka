@@ -13,9 +13,13 @@ Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado e
 - 🌐 Proficiência em Inglês (B2-C1).
 
 ### 🛠️ Minhas Stacks
-- **Testing & Quality:** Shift-Left Testing, Testes de Usabilidade, Acessibilidade Web (a11y).
-- **Linguagens:** Python, JavaScript, SQL, VBA.
-- **Web:** HTML5, CSS3, ReactJS.
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,react,vscode,mysql,html,css,figma&theme=dark" />
+  </a>
+</div>
+
+<br>
 - **Foco Atual:** Qualidade de Software e Automação Administrativa.
 
 ### 📂 Experiência & Projetos em Destaque
@@ -30,9 +34,17 @@ Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado e
 ---
 
 ### 📊 Estatísticas
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ThallyaBianka&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallyaBianka&layout=compact&theme=dracula)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallyaBianka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallyaBianka&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### 📬 Vamos nos conectar?
-[LinkedIn](https://www.linkedin.com/in/thallyabianka) | [E-mail](mailto:thallyabianka@gmail.com)
-
+<div align="left">
+  <a href="mailto:thallyabianka@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/thallyabianka">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>

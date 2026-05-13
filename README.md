@@ -33,13 +33,14 @@ Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado e
 
 ---
 
+<!-- 
 ### 📊 Estatísticas
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallyaBianka&show_icons=true&theme=dracula&v=1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallyaBianka&layout=compact&langs_count=7&theme=dracula&v=1"/>
 </div>
-
 <br>
+-->
 
 ### 📬 Vamos nos conectar?
 <div align="left">

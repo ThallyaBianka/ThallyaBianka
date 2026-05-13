@@ -25,7 +25,7 @@ Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado e
 ### 📂 Experiência & Projetos em Destaque
 
 #### 💼 Profissional (IdenTech)
-- **Consultoria Web & Landing Pages:** Atuação como QA em projetos comerciais (como o portal "2O Consultoria"), garantindo a integridade de formulários, performance de carregamento e adaptação mobile.
+- **Consultoria Web & Landing Pages:** Atuação como QA em projetos comerciais, garantindo a integridade de formulários, performance de carregamento e adaptação mobile.
 
 #### 📚 Acadêmicos
 - **Projeto Solar (Instituto PROA):** Plataforma web de suporte para famílias monoparentais. Mapeamento de ONGs, CRAS e UBS. *Este projeto acadêmico foi o ponto de partida para a formação da equipe que hoje compõe a IdenTech.*

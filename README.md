@@ -35,6 +35,8 @@ Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado e
 
 
 <div align="center"> 
+
+  
 ### 📊 Estatísticas
   
 <div>

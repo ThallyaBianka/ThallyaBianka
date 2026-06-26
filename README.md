@@ -1,4 +1,6 @@
+<div align="center"> 
 # Olá, eu sou a Thallya Bianka! 👋
+</div>
 
 ### 💻 Future QA Analyst | Full-Stack Developer | QA at IdenTech
 

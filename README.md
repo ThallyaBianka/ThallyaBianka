@@ -34,7 +34,8 @@ Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado e
 ---
 
 
-<div align="center"> ### 📊 Estatísticas
+<div align="center"> 
+### 📊 Estatísticas
   
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallyaBianka&show_icons=true&theme=dracula&v=1"/>
@@ -44,7 +45,7 @@ Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado e
 
 
 ### 📬 Vamos nos conectar?
-<div align="left">
+<div>
   <a href="mailto:thallyabianka@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>

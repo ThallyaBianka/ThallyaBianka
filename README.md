@@ -9,7 +9,7 @@ Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado e
 ### 🚀 Sobre Mim
 - 🎓 Técnica em Desenvolvimento de Sistemas pela **Etec**.
 - 🐍 Desenvolvedora Web Full-Stack (Python) formada pelo **Instituto PROA** e **Senac Lapa Tito**.
-- 🛠️ Atualmente focada em: Excel VBA para automação de processos, Automação de Testes e CI/CD.
+- 🛠️ Atualmente focada em: Testes Manuais, Casos de Teste, Bug Report, Automação de Testes e CI/CD.
 - 🌐 Proficiência em Inglês (B2-C1).
 
 ### 🛠️ Minhas Stacks

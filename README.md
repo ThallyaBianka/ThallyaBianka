@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Thallya+Bianka&textBg=false&fontSize=70&fontAlign=50&fontAlignY=45&rotate=0&strokeWidth=0&desc=QA+Tester+%7C+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=66" width="100%" alt="Header Thallya Bianka" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Thallya+Bianka&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&rotate=0&strokeWidth=0&desc=QA+Tester+%7C+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=59" width="100%" alt="Header Thallya Bianka" />
 </div>
 
 ---
@@ -10,11 +10,14 @@
 - 🛠️ Atualmente focada em: Qualidade de Software: Testes Manuais, Casos de Teste, Bug Report, Automação de Testes e CI/CD.
 - 🌐 Proficiência em Inglês (B2-C1).
 
+<div align="center">
+
 ### 🛠️ Minhas Stacks
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,vscode,mysql,html,css,figma&theme=dark" />
-  </a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,react,vscode,mysql,html,css,figma,java&theme=dark" />
+</a>
+
 </div>
 
 <br>

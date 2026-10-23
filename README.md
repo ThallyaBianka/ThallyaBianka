@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Thallya+Bianka&textBg=false&fontSize=70&fontAlign=50&fontAlignY=45&rotate=0&strokeWidth=0&desc=QA+Tester+%7C+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=66" width="100%" alt="Header Thallya Bianka" />
 </div>
 
-Sou a QA oficial da **IdenTech**, um grupo autônomo de desenvolvedores focado em criar soluções web e landing pages de alta conversão. Atualmente, sou Jovem Aprendiz Administrativa no setor de Qualidade da Rede Américas, onde aplico processos analíticos para garantir a excelência das entregas.
-
 ---
 
 ### 🚀 Sobre Mim

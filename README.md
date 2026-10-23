@@ -7,7 +7,7 @@
 ### 🚀 Sobre Mim
 - 🎓 Técnica em Desenvolvimento de Sistemas pela **Etec**.
 - 🐍 Desenvolvedora Web Full-Stack (Python) formada pelo **Instituto PROA** e **Senac Lapa Tito**.
-- 🛠️ Atualmente focada em: Testes Manuais, Casos de Teste, Bug Report, Automação de Testes e CI/CD.
+- 🛠️ Atualmente focada em: Qualidade de Software: Testes Manuais, Casos de Teste, Bug Report, Automação de Testes e CI/CD.
 - 🌐 Proficiência em Inglês (B2-C1).
 
 ### 🛠️ Minhas Stacks
@@ -18,7 +18,6 @@
 </div>
 
 <br>
-- **Foco Atual:** Qualidade de Software e Automação Administrativa.
 
 ### 📂 Experiência & Projetos em Destaque
 

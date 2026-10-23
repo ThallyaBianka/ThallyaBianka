@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Thallya+Bianka&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&rotate=0&strokeWidth=0&desc=QA+Tester+%7C+Full-Stack+Developer&descSize=20&descAlign=50&descAlignY=59" width="100%" alt="Header Thallya Bianka" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00e2e6&height=180&section=header&text=Ol%C3%A1,%20eu%20sou%20a%20Thallya!&fontSize=34&fontColor=00000&fontAlignY=38&desc=QA%20Tester%20|%20Full-Stack%20Developer&descAlignY=60&descSize=16" />
 </div>
 
 ---

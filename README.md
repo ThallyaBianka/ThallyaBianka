@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00e2e6&height=180&section=header&text=Ol%C3%A1,%20eu%20sou%20a%20Thallya!&fontSize=34&fontColor=00000&fontAlignY=38&desc=QA%20Tester%20|%20Full-Stack%20Developer&descAlignY=60&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00e2e6&height=180&section=header&text=Ol%C3%A1,%20eu%20sou%20a%20Thallya!&fontSize=34&fontColor=00000&fontAlignY=30&desc=QA%20Tester%20|%20Full-Stack%20Developer&descAlignY=50&descSize=16" />
 </div>
 
 ---
@@ -7,7 +7,7 @@
 ### 🚀 Sobre Mim
 - 🎓 Técnica em Desenvolvimento de Sistemas pela **Etec**.
 - 🐍 Desenvolvedora Web Full-Stack (Python) formada pelo **Instituto PROA** e **Senac Lapa Tito**.
-- 🛠️ Atualmente focada em: Qualidade de Software: Testes Manuais, Casos de Teste, Bug Report, Automação de Testes e CI/CD.
+- 🛠️ Atualmente focada em: Qualidade de Software - Casos de Teste, Testes Manuais, Bug Report, Automação de Testes e CI/CD.
 - 🌐 Proficiência em Inglês (B2-C1).
 
 <div align="center">
